@@ -22,7 +22,7 @@
 
 `[Link](./md-primer.md)`
 
-![Alt Text]()
+![Alt Text](./../assets/image-example.jpg)
 
 `![Alt Text](./../assets/image-example.jpg)`
 
