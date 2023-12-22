@@ -22,9 +22,9 @@
 
 `[Link](./md-primer.md)`
 
-![Alt Text](./../assets/image-example.jpg)
+![Alt Text](https://github.com/bandrada/md-blog/blob/main/assets/image-example.jpg?raw=true)
 
-`![Alt Text](./../assets/image-example.jpg)`
+`![Alt Text](https://github.com/bandrada/md-blog/blob/main/assets/image-example.jpg?raw=true)`
 
 ---
 `---`
